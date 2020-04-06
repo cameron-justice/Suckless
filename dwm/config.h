@@ -1,0 +1,1 @@
+/home/kenalia/.dots/dwm/config.h
